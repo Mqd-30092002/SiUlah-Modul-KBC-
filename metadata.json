@@ -1,0 +1,8 @@
+{
+  "name": "Generator RPP & Modul Ajar AI (Kurikulum Merdeka)",
+  "description": "Aplikasi cerdas untuk menyusun RPP dan Modul Ajar Kurikulum Merdeka secara otomatis, lengkap dengan LKPD, Asesmen, dan ekspor Word (.docx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
